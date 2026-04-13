@@ -1,6 +1,6 @@
 Xini Rox (Aanand Maurya)
 
-"Xini Rox" (images/profile.jpg)
+"Xini Rox" (https://lswynjfkkutmttcqoaqo.supabase.co/storage/v1/object/public/icons/gallery/1775716149910.png)
 
 Xini Rox is a digital entrepreneur, business manager, and system builder managing multiple ventures through a centralized digital ecosystem.
 

@@ -1,0 +1,11 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Xini Rox",
+  "alternateName": "Aanand Maurya",
+  "image": [
+    "https://lswynjfkkutmttcqoaqo.supabase.co/storage/v1/object/public/icons/gallery/1775716181570.jpg",
+    "https://lswynjfkkutmttcqoaqo.supabase.co/storage/v1/object/public/icons/gallery/1775716149910.png"
+  ],
+  "url": "https://xinirox.lovable.app"
+}

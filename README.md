@@ -22,7 +22,7 @@ Ventures
 - Infinity Gym App
 ## Official Links
 
-- Xini Rox Super Hub: https://xinirox.lovable.app  
+- Xini Rox Super Hub: https://xinirox.co.in 
 - Aaradhya Multi Shop: https://aaradhyamultyshop.lovable.app  
 - Aaradhya Certifies Hub: https://aaradhya-certify-hub.lovable.app  
 - Bachat Adda App: https://sathi-savings-buddy.lovable.app  
